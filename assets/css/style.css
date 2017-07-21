@@ -1,0 +1,9 @@
+#select {
+    width: 100%;
+}
+.pageHeader {
+    background-image: url("assets/images/NYTimes.png");
+}
+img {
+    margin: auto;
+}
